@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "regex": "cpp",
+        "cmath": "cpp",
+        "iosfwd": "cpp"
+    }
+}
