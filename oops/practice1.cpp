@@ -66,7 +66,9 @@ string operator -(string s1, string s2)
 
     // Animal *p = new Dog("Tiger");
     // p->func();
-    string s = "puspraj";
-    s = s - "aj";
-    cout << s;
+    // string s = "puspraj";
+    // s = s - "aj";
+    // cout << s;
+
+    // cout << a;
 }
