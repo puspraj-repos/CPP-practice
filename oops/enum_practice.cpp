@@ -17,5 +17,8 @@ public:
 int main()
 {
     A obj;
-    obj.get_state();
+    //obj.get_state();
+    string ans = "puspraj";
+    ans += 'P';
+    cout << ans;
 }
